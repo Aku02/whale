@@ -1,0 +1,11 @@
+*.pth
+__pycache__/*
+*.pkl
+*.csv
+*.pyc
+.DS_Store
+infer/*
+*.json
+data/*
+test_images/*
+*.csv
